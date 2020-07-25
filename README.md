@@ -1,6 +1,8 @@
 # metacritic_tlou2
 A web scraping and data analysis microproject
 
+https://www.reddit.com/r/TheLastOfUs2/comments/hgpzqo/a_piece_to_accompany_the_peace_treaty_between/
+
 How to get my data
 1. Download this repository
 2. Browse metacritic_tlou2_user_reviews_20200626.csv with Excel, enjoy, you're done.
